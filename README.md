@@ -8,4 +8,4 @@ ERVA reframes failure as a diagnostic signal. It decomposes abstract reasoning i
 ## Full Paper
 You can download the full paper here: [ARC_ERVA_Alfira_Mukat.pdf](ARC_ERVA_Alfira_Mukat.pdf)
 
-*Author: Alfira Mukat*
+*Author: Alfira Muhati*
